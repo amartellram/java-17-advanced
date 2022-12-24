@@ -1,4 +1,4 @@
-# Botes about Java 17 Advances features Course in Pluralsight
+# Notes about Java 17 Advances features Course in Pluralsight
 
 https://app.pluralsight.com/library/courses/java-se-17-advanced-language-features/
 
@@ -11,8 +11,6 @@ https://app.pluralsight.com/library/courses/java-se-17-advanced-language-feature
 ## 04. Advances Generics
 
 ### Type Erasure
-
-
 
 ### Limitations caused by type erasure
 
