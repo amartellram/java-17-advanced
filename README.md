@@ -32,7 +32,7 @@ obj instanceof List<String> //Error
 obj instance of List<?> //OK
 ```
 
-* Operations where **type safety** cannot be guaranteed cause **unchecked **warnings.
+* Operations where **type safety** cannot be guaranteed cause **unchecked** warnings.
 * You cannot **overload methods** with the same **method signature**
 * after type erasure.
 
